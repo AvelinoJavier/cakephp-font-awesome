@@ -7,6 +7,7 @@ composer require avelinojavier/cakephp-font-awesome-loader
 ```
 
 ## Usage
+You can paste this code in your default layout header.
 ```
 <?= $this->element('FontAwesomeLoader.load') ?>
 ```

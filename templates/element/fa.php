@@ -1,1 +1,0 @@
-<?= $this->Html->css('FontAwesome.fa.min') ?>

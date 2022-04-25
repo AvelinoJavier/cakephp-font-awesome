@@ -1,6 +1,6 @@
 {
-    "name": "avelinojavier/cakephp-font-awesome",
-    "description": "Plugin that injects FontAwesome with an html helper",
+    "name": "avelinojavier/cakephp-font-awesome-loader",
+    "description": "Plugin that injects FontAwesome V6.1.1 via html helper element.",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FontAwesome\\": "src/"
+            "FontAwesomeLoader\\": "src/"
         }
     }
 }
